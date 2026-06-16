@@ -1,5 +1,5 @@
-openai
-python-dotenv
 streamlit
 pandas
-pycaret
+numpy==1.26.4
+scikit-learn==1.4.2
+pycaret==3.3.2
